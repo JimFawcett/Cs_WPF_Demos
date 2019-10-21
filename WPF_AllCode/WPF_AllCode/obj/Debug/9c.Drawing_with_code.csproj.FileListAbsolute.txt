@@ -1,0 +1,5 @@
+C:\su\coretechnologies\WindowsProgramming\code\WPF_AllCode\WPF_AllCode\bin\Debug\WPF_AllCode.exe
+C:\su\coretechnologies\WindowsProgramming\code\WPF_AllCode\WPF_AllCode\bin\Debug\WPF_AllCode.pdb
+C:\su\coretechnologies\WindowsProgramming\code\WPF_AllCode\WPF_AllCode\obj\Debug\9c.Drawing_with_code.csprojResolveAssemblyReference.cache
+C:\su\coretechnologies\WindowsProgramming\code\WPF_AllCode\WPF_AllCode\obj\Debug\WPF_AllCode.exe
+C:\su\coretechnologies\WindowsProgramming\code\WPF_AllCode\WPF_AllCode\obj\Debug\WPF_AllCode.pdb

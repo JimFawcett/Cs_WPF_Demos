@@ -1,0 +1,25 @@
+﻿<!--///////////////////////////////////////////////////////////////////////
+// PackageDiagram.xaml
+// ver 1.0                                                           //
+// Language:      C#, 2011, .Net Framework 4.0                       //
+// Platform:      Lenovo Y410, Win7, SP1                             //
+// Application:   CSE 681- Project #4 Help                           //
+// Date:          Fall 2012                                          //
+// Author:        Vijay Ramakrishnan,                                //
+//                viramakr@syr.edu                                   //
+// Reference : http://msdn.microsoft.com/en-us/library/hh144799.aspx //
+///////////////////////////////////////////////////////////////////////-->
+    
+    <UserControl x:Class="DragDropExample.PackageDiagram"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="81" d:DesignWidth="79" AllowDrop="True"  >
+  
+    <Canvas Name="classCanvas" Background="White" Height="81" Width="81" >
+        <Rectangle Name="classTop" Stroke="Black" Margin="0" Height="50" Canvas.Left="0" Canvas.Top="30" Width="80" />
+        <Rectangle Height="16" Name="classBottom" Stroke="Black" Width="43" Canvas.Left="0" Canvas.Top="14" />
+    </Canvas>
+</UserControl>

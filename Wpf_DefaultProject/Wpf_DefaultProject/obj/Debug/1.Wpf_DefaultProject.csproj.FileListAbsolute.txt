@@ -1,0 +1,13 @@
+C:\SU\coretechnologies\WindowsProgramming\code\Wpf_DefaultProject\Wpf_DefaultProject\bin\Debug\Wpf_DefaultProject.exe.config
+C:\SU\coretechnologies\WindowsProgramming\code\Wpf_DefaultProject\Wpf_DefaultProject\bin\Debug\Wpf_DefaultProject.exe
+C:\SU\coretechnologies\WindowsProgramming\code\Wpf_DefaultProject\Wpf_DefaultProject\bin\Debug\Wpf_DefaultProject.pdb
+C:\SU\coretechnologies\WindowsProgramming\code\Wpf_DefaultProject\Wpf_DefaultProject\obj\Debug\1.Wpf_DefaultProject.csprojResolveAssemblyReference.cache
+C:\SU\coretechnologies\WindowsProgramming\code\Wpf_DefaultProject\Wpf_DefaultProject\obj\Debug\Window1.baml
+C:\SU\coretechnologies\WindowsProgramming\code\Wpf_DefaultProject\Wpf_DefaultProject\obj\Debug\Window1.g.cs
+C:\SU\coretechnologies\WindowsProgramming\code\Wpf_DefaultProject\Wpf_DefaultProject\obj\Debug\App.g.cs
+C:\SU\coretechnologies\WindowsProgramming\code\Wpf_DefaultProject\Wpf_DefaultProject\obj\Debug\Wpf_DefaultProject_MarkupCompile.cache
+C:\SU\coretechnologies\WindowsProgramming\code\Wpf_DefaultProject\Wpf_DefaultProject\obj\Debug\Wpf_DefaultProject.g.resources
+C:\SU\coretechnologies\WindowsProgramming\code\Wpf_DefaultProject\Wpf_DefaultProject\obj\Debug\Wpf_DefaultProject.Properties.Resources.resources
+C:\SU\coretechnologies\WindowsProgramming\code\Wpf_DefaultProject\Wpf_DefaultProject\obj\Debug\1.Wpf_DefaultProject.csproj.GenerateResource.Cache
+C:\SU\coretechnologies\WindowsProgramming\code\Wpf_DefaultProject\Wpf_DefaultProject\obj\Debug\Wpf_DefaultProject.exe
+C:\SU\coretechnologies\WindowsProgramming\code\Wpf_DefaultProject\Wpf_DefaultProject\obj\Debug\Wpf_DefaultProject.pdb

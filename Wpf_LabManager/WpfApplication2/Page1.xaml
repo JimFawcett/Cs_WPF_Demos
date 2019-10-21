@@ -1,0 +1,105 @@
+﻿<Page x:Class="WpfApplication2.Page1"
+  xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+  xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+  Title="Page1">
+  <DockPanel>
+    <DockPanel.Resources>
+      <Style x:Key="buttonStyle">
+        <Setter Property="Button.FontFamily" Value="Tahoma"/>
+        <Setter Property="Button.FontSize"   Value="14"/>
+        <Setter Property="Button.FontWeight" Value="Bold"/>
+        <Setter Property="Button.Background" Value="White"/>
+      </Style>
+      <Style x:Key="topButtonStyle">
+        <Setter Property="Button.FontFamily" Value="Tahoma"/>
+        <Setter Property="Button.FontSize"   Value="12"/>
+        <Setter Property="Button.FontWeight" Value="Bold"/>
+        <Setter Property="Button.Background" Value="#eeeeee"/>
+        <Setter Property="Button.Padding"    Value="10" />
+      </Style>
+    </DockPanel.Resources>
+      <!-- Top Menu -->
+    <StackPanel Background="#eeeeee" Height="75" DockPanel.Dock="Top">
+      <DockPanel>
+        <Button Style="{StaticResource topButtonStyle}" DockPanel.Dock="Right" Click="Button_Click" BorderThickness="1" BorderBrush="#FFFFEEEE">Help</Button>
+        <StackPanel Orientation="Horizontal">
+          <TextBlock FontFamily="Tahoma" FontSize="20" FontWeight="bold" Padding="10">Lab Manager</TextBlock>
+          <Label Name="PageLabel" VerticalAlignment="Center" Padding="30,5,30,5" Width="304" FontSize="14">Physics 201 Lab</Label>
+        </StackPanel>
+      </DockPanel>
+      <Menu Background="Black">
+        <MenuItem Header="Main" Foreground="AliceBlue" Click="MenuItem_Click" Padding="50,5,50,5"/>
+        <MenuItem Header="Budget" Foreground="AliceBlue" Click="MenuItem_Click_1"  Padding="50,5,50,5"/>
+        <MenuItem Header="Personnel" Foreground="AliceBlue" Padding="50,5,50,5" Click="MenuItem_Click_2" />
+        <MenuItem Header="Lab Set Up" Foreground="AliceBlue" Padding="50,5,50,5" Click="MenuItem_Click_3" />
+        <MenuItem Header="Projects" Foreground="AliceBlue" Padding="50,5,50,5" Click="MenuItem_Click_4" />
+        <MenuItem Header="Mentoring" Foreground="AliceBlue" Padding="50,5,50,5" Click="MenuItem_Click_5" />
+      </Menu>
+    </StackPanel>
+      <!-- Bottom Status Bar -->
+    <StackPanel Background="Black" Height="25" Orientation="Horizontal" DockPanel.Dock="Bottom">
+      <Label Content="Status: " Foreground="AliceBlue"/>
+    </StackPanel>
+      <!-- Left Document Area -->
+    <FlowDocumentScrollViewer Width="250" VerticalScrollBarVisibility="Auto" IsSelectionEnabled="False" IsToolBarVisible="False">
+      <FlowDocument>
+        <Paragraph FontSize="18" FontFamily="tahoma">
+          <Bold>Physics Lab 201</Bold>
+        </Paragraph>
+        <Paragraph FontSize="14" FontFamily="times new roman">
+          This is some text about the physics laboratory.
+        </Paragraph>
+        <Paragraph FontSize="14" FontFamily="times new roman">
+          You can have as many paragraphs as you like. You may even enclude multiple sentences like this one.
+        </Paragraph>
+      </FlowDocument>
+    </FlowDocumentScrollViewer>
+      <!-- Selection Area-->
+    <Grid ShowGridLines="True">
+      <Grid.RowDefinitions>
+        <RowDefinition MinHeight="50" />
+        <RowDefinition MinHeight="50" />
+        <RowDefinition MinHeight="50" />
+        <RowDefinition MinHeight="50" />
+        <RowDefinition MinHeight="50" />
+      </Grid.RowDefinitions>
+      <Grid.ColumnDefinitions>
+        <ColumnDefinition Width="130" />
+        <ColumnDefinition Width="Auto" MinWidth="171" />
+      </Grid.ColumnDefinitions>
+      <Button Grid.Row="0" Name="button1" Click="button1_Click" Style="{StaticResource buttonStyle}">
+        <StackPanel Background="White">
+          <Image Source="Budget.jpg"/>
+          <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Background="White">Budget</TextBlock>
+        </StackPanel>
+      </Button>
+      <TextBlock Grid.Column="1" HorizontalAlignment="Left" Padding="10">
+        Hello from the Main Page.  This is some obscure and not very interesting text, designed to keep you busy.
+      </TextBlock>
+      <Button Grid.Row="1" Name="button2" Click="button2_Click" Style="{StaticResource buttonStyle}">
+        <StackPanel Background="White">
+          <Image Source="Personnel.jpg" />
+          <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center">Personnel</TextBlock>
+        </StackPanel>
+      </Button>
+      <Button Grid.Row="2" Name="button3" Click="button3_Click" Style="{StaticResource buttonStyle}">
+        <StackPanel Background="White">
+          <Image Source="LabSetUp.png" />
+          <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center">Lab Set Up</TextBlock>
+        </StackPanel>
+      </Button>
+      <Button Grid.Row="3" Name="button4" Click="button4_Click" Style="{StaticResource buttonStyle}">
+        <StackPanel Background="White">
+          <Image Source="Projects.png" />
+          <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center">Projects</TextBlock>
+        </StackPanel>
+      </Button>
+      <Button Grid.Row="4" Name="button5" Click="button5_Click" Style="{StaticResource buttonStyle}">
+        <StackPanel Background="White">
+          <Image Source="Mentor.jpg" />
+          <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center">Mentoring</TextBlock>
+        </StackPanel>
+      </Button>
+    </Grid>
+  </DockPanel>
+</Page>

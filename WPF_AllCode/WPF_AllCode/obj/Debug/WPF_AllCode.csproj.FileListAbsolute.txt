@@ -1,0 +1,10 @@
+C:\su\CoreTechnologies\WindowsProgramming\code\WPF_AllCode\WPF_AllCode\obj\Debug\ResolveAssemblyReference.cache
+C:\su\CoreTechnologies\WindowsProgramming\code\WPF_AllCode\WPF_AllCode\bin\Debug\WPF_AllCode.exe
+C:\su\CoreTechnologies\WindowsProgramming\code\WPF_AllCode\WPF_AllCode\bin\Debug\WPF_AllCode.pdb
+C:\su\CoreTechnologies\WindowsProgramming\code\WPF_AllCode\WPF_AllCode\obj\Debug\WPF_AllCode.exe
+C:\su\CoreTechnologies\WindowsProgramming\code\WPF_AllCode\WPF_AllCode\obj\Debug\WPF_AllCode.pdb
+Y:\handouts\CoreTechnologies\WindowsProgramming\code\WPF_AllCode\WPF_AllCode\obj\Debug\WPF_AllCode.exe
+Y:\handouts\CoreTechnologies\WindowsProgramming\code\WPF_AllCode\WPF_AllCode\obj\Debug\WPF_AllCode.pdb
+Y:\handouts\CoreTechnologies\WindowsProgramming\code\WPF_AllCode\WPF_AllCode\bin\Debug\WPF_AllCode.exe
+Y:\handouts\CoreTechnologies\WindowsProgramming\code\WPF_AllCode\WPF_AllCode\bin\Debug\WPF_AllCode.pdb
+Y:\handouts\CoreTechnologies\WindowsProgramming\code\WPF_AllCode\WPF_AllCode\obj\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\coretechnologies\windowsprogramming\code\DemoPanels\CanvasPanel\bin\Debug\CanvasPanel.exe
+C:\coretechnologies\windowsprogramming\code\DemoPanels\CanvasPanel\bin\Debug\CanvasPanel.pdb
+C:\coretechnologies\windowsprogramming\code\DemoPanels\CanvasPanel\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\coretechnologies\windowsprogramming\code\DemoPanels\CanvasPanel\obj\x86\Debug\MainWindow.baml
+C:\coretechnologies\windowsprogramming\code\DemoPanels\CanvasPanel\obj\x86\Debug\MainWindow.g.cs
+C:\coretechnologies\windowsprogramming\code\DemoPanels\CanvasPanel\obj\x86\Debug\App.g.cs
+C:\coretechnologies\windowsprogramming\code\DemoPanels\CanvasPanel\obj\x86\Debug\CanvasPanel_MarkupCompile.cache
+C:\coretechnologies\windowsprogramming\code\DemoPanels\CanvasPanel\obj\x86\Debug\CanvasPanel.g.resources
+C:\coretechnologies\windowsprogramming\code\DemoPanels\CanvasPanel\obj\x86\Debug\CanvasPanel.Properties.Resources.resources
+C:\coretechnologies\windowsprogramming\code\DemoPanels\CanvasPanel\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\coretechnologies\windowsprogramming\code\DemoPanels\CanvasPanel\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\coretechnologies\windowsprogramming\code\DemoPanels\CanvasPanel\obj\x86\Debug\CanvasPanel.exe
+C:\coretechnologies\windowsprogramming\code\DemoPanels\CanvasPanel\obj\x86\Debug\CanvasPanel.pdb

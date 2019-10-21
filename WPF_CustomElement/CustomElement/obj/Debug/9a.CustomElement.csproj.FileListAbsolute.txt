@@ -1,0 +1,11 @@
+C:\su\coretechnologies\WindowsProgramming\code\WPF_CustomElement\CustomElement\bin\Debug\CustomElement.exe
+C:\su\coretechnologies\WindowsProgramming\code\WPF_CustomElement\CustomElement\bin\Debug\CustomElement.pdb
+C:\su\coretechnologies\WindowsProgramming\code\WPF_CustomElement\CustomElement\obj\Debug\Window1.baml
+C:\su\coretechnologies\WindowsProgramming\code\WPF_CustomElement\CustomElement\obj\Debug\Window1.g.cs
+C:\su\coretechnologies\WindowsProgramming\code\WPF_CustomElement\CustomElement\obj\Debug\App.g.cs
+C:\su\coretechnologies\WindowsProgramming\code\WPF_CustomElement\CustomElement\obj\Debug\CustomElement_MarkupCompile.cache
+C:\su\coretechnologies\WindowsProgramming\code\WPF_CustomElement\CustomElement\obj\Debug\CustomElement.g.resources
+C:\su\coretechnologies\WindowsProgramming\code\WPF_CustomElement\CustomElement\obj\Debug\CustomElement.Properties.Resources.resources
+C:\su\coretechnologies\WindowsProgramming\code\WPF_CustomElement\CustomElement\obj\Debug\9a.CustomElement.csproj.GenerateResource.Cache
+C:\su\coretechnologies\WindowsProgramming\code\WPF_CustomElement\CustomElement\obj\Debug\CustomElement.exe
+C:\su\coretechnologies\WindowsProgramming\code\WPF_CustomElement\CustomElement\obj\Debug\CustomElement.pdb

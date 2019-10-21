@@ -1,0 +1,13 @@
+c:\su\CoreTechnologies\WindowsProgramming\code\WPF_ControlTemplate\ControlTemplateDemo\ControlTemplateDemo\bin\Debug\ControlTemplateDemo.exe
+c:\su\CoreTechnologies\WindowsProgramming\code\WPF_ControlTemplate\ControlTemplateDemo\ControlTemplateDemo\bin\Debug\ControlTemplateDemo.pdb
+c:\su\CoreTechnologies\WindowsProgramming\code\WPF_ControlTemplate\ControlTemplateDemo\ControlTemplateDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\su\CoreTechnologies\WindowsProgramming\code\WPF_ControlTemplate\ControlTemplateDemo\ControlTemplateDemo\obj\x86\Debug\MainWindow.baml
+c:\su\CoreTechnologies\WindowsProgramming\code\WPF_ControlTemplate\ControlTemplateDemo\ControlTemplateDemo\obj\x86\Debug\MainWindow.g.cs
+c:\su\CoreTechnologies\WindowsProgramming\code\WPF_ControlTemplate\ControlTemplateDemo\ControlTemplateDemo\obj\x86\Debug\App.g.cs
+c:\su\CoreTechnologies\WindowsProgramming\code\WPF_ControlTemplate\ControlTemplateDemo\ControlTemplateDemo\obj\x86\Debug\ControlTemplateDemo_MarkupCompile.cache
+c:\su\CoreTechnologies\WindowsProgramming\code\WPF_ControlTemplate\ControlTemplateDemo\ControlTemplateDemo\obj\x86\Debug\ControlTemplateDemo.g.resources
+c:\su\CoreTechnologies\WindowsProgramming\code\WPF_ControlTemplate\ControlTemplateDemo\ControlTemplateDemo\obj\x86\Debug\ControlTemplateDemo.Properties.Resources.resources
+c:\su\CoreTechnologies\WindowsProgramming\code\WPF_ControlTemplate\ControlTemplateDemo\ControlTemplateDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\su\CoreTechnologies\WindowsProgramming\code\WPF_ControlTemplate\ControlTemplateDemo\ControlTemplateDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\su\CoreTechnologies\WindowsProgramming\code\WPF_ControlTemplate\ControlTemplateDemo\ControlTemplateDemo\obj\x86\Debug\ControlTemplateDemo.exe
+c:\su\CoreTechnologies\WindowsProgramming\code\WPF_ControlTemplate\ControlTemplateDemo\ControlTemplateDemo\obj\x86\Debug\ControlTemplateDemo.pdb

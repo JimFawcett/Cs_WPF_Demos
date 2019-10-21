@@ -1,0 +1,12 @@
+C:\su\coretechnologies\WindowsProgramming\code\WPF_ControlTemplate\ControlTemplateDemo\ControlTemplateDemo\bin\Debug\ControlTemplateDemo.exe
+C:\su\coretechnologies\WindowsProgramming\code\WPF_ControlTemplate\ControlTemplateDemo\ControlTemplateDemo\bin\Debug\ControlTemplateDemo.pdb
+C:\su\coretechnologies\WindowsProgramming\code\WPF_ControlTemplate\ControlTemplateDemo\ControlTemplateDemo\obj\x86\Debug\9.ControlTemplate.csprojResolveAssemblyReference.cache
+C:\su\coretechnologies\WindowsProgramming\code\WPF_ControlTemplate\ControlTemplateDemo\ControlTemplateDemo\obj\x86\Debug\MainWindow.baml
+C:\su\coretechnologies\WindowsProgramming\code\WPF_ControlTemplate\ControlTemplateDemo\ControlTemplateDemo\obj\x86\Debug\MainWindow.g.cs
+C:\su\coretechnologies\WindowsProgramming\code\WPF_ControlTemplate\ControlTemplateDemo\ControlTemplateDemo\obj\x86\Debug\App.g.cs
+C:\su\coretechnologies\WindowsProgramming\code\WPF_ControlTemplate\ControlTemplateDemo\ControlTemplateDemo\obj\x86\Debug\ControlTemplateDemo_MarkupCompile.cache
+C:\su\coretechnologies\WindowsProgramming\code\WPF_ControlTemplate\ControlTemplateDemo\ControlTemplateDemo\obj\x86\Debug\ControlTemplateDemo.g.resources
+C:\su\coretechnologies\WindowsProgramming\code\WPF_ControlTemplate\ControlTemplateDemo\ControlTemplateDemo\obj\x86\Debug\ControlTemplateDemo.Properties.Resources.resources
+C:\su\coretechnologies\WindowsProgramming\code\WPF_ControlTemplate\ControlTemplateDemo\ControlTemplateDemo\obj\x86\Debug\9.ControlTemplate.csproj.GenerateResource.Cache
+C:\su\coretechnologies\WindowsProgramming\code\WPF_ControlTemplate\ControlTemplateDemo\ControlTemplateDemo\obj\x86\Debug\ControlTemplateDemo.exe
+C:\su\coretechnologies\WindowsProgramming\code\WPF_ControlTemplate\ControlTemplateDemo\ControlTemplateDemo\obj\x86\Debug\ControlTemplateDemo.pdb

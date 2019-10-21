@@ -1,0 +1,74 @@
+﻿<Window x:Class="ControlTemplateDemo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+  <!--
+  /////////////////////////////////////////////////////////////////
+  // MainWindow.xaml  -   Demonstrates use of ControlTemplate    //
+  //                      and Styles to customize appearence     //
+  //                      of controls.                           //
+  //                                                             //
+  // Jim Fawcett, CSE775 - Distributed Objects, Summer 2010      //
+  /////////////////////////////////////////////////////////////////
+  -->
+  <Window.Resources>
+    <Style x:Key ="StyledButton" TargetType="Button">
+      <Setter Property="Foreground" Value="#58290a" />
+      <Setter Property="FontSize" Value="18" />
+      <Setter Property="FontWeight" Value="Bold" />
+      <Setter Property="FontFamily" Value="Lucida Console" />
+      <Setter Property="Background">
+        <Setter.Value>
+          <LinearGradientBrush StartPoint="0,0" EndPoint="0,1" >
+            <LinearGradientBrush.GradientStops>
+              <GradientStop Color="#0000" Offset="0.1"/>
+              <GradientStop Color="#3333" Offset="0.4"/>
+              <GradientStop Color="#aaaa" Offset="0.6"/>
+              <GradientStop Color="#ffff" Offset="0.9"/>
+            </LinearGradientBrush.GradientStops>
+          </LinearGradientBrush>
+        </Setter.Value>
+      </Setter>
+      <Style.Triggers>
+        <Trigger Property="IsPressed"  Value="True">
+          <Setter Property="Foreground">
+            <Setter.Value>
+              <LinearGradientBrush StartPoint="0,0" EndPoint="0,1" >
+                <LinearGradientBrush.GradientStops>
+                  <GradientStop Color="#feca00" Offset="0.1"/>
+                  <GradientStop Color="#ffe100" Offset="0.4"/>
+                  <GradientStop Color="#feca00" Offset="0.6"/>
+                  <GradientStop Color="Orange" Offset="0.9"/>
+                </LinearGradientBrush.GradientStops>
+              </LinearGradientBrush>
+            </Setter.Value>
+          </Setter>
+        </Trigger>
+      </Style.Triggers>
+    </Style>
+  </Window.Resources>
+  <StackPanel>
+    <Button x:Name="Demo" Height="70" Click="Demo_Click" Content="Demo" Margin="166,48,186,10">
+      <Button.Template>
+        <ControlTemplate>
+          <Grid x:Name="ButtonGrid">
+            <Ellipse x:Name="DemoButton">
+              <Ellipse.Fill>
+                <RadialGradientBrush>
+                  <GradientStop Color="#FFAAAAFF" Offset="0.8" />
+                  <GradientStop Color="#FF6666FF" Offset="0.95" />
+                  <GradientStop Color="#FF0000FF" Offset="1" />
+                </RadialGradientBrush>
+              </Ellipse.Fill>
+            </Ellipse>
+            <Label x:Name="DemoButtonCaption" VerticalAlignment="Center"
+                   HorizontalAlignment="Center"
+                   FontWeight="Bold" FontSize="20" Content="Click Me!" />
+          </Grid>
+        </ControlTemplate>
+      </Button.Template>
+    </Button>
+    <Button x:Name="StyledButton" Height="100" Content="Styled Button" Margin="10"
+            Style="{StaticResource StyledButton}" Click="StyledButton_Click" />
+  </StackPanel>
+</Window>

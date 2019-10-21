@@ -1,0 +1,12 @@
+C:\My Stuff\Projects\HDI Videos\How Do I - WPF\HDI-WPF-ListItemTemplate\code\HDI-WPF-ListItemTemplate-cs\HDI-WPF-ListItemTemplate-cs\bin\Debug\HDI-WPF-ListItemTemplate-cs.exe
+C:\My Stuff\Projects\HDI Videos\How Do I - WPF\HDI-WPF-ListItemTemplate\code\HDI-WPF-ListItemTemplate-cs\HDI-WPF-ListItemTemplate-cs\bin\Debug\HDI-WPF-ListItemTemplate-cs.pdb
+C:\My Stuff\Projects\HDI Videos\How Do I - WPF\HDI-WPF-ListItemTemplate\code\HDI-WPF-ListItemTemplate-cs\HDI-WPF-ListItemTemplate-cs\obj\Debug\ResolveAssemblyReference.cache
+C:\My Stuff\Projects\HDI Videos\How Do I - WPF\HDI-WPF-ListItemTemplate\code\HDI-WPF-ListItemTemplate-cs\HDI-WPF-ListItemTemplate-cs\obj\Debug\Window1.baml
+C:\My Stuff\Projects\HDI Videos\How Do I - WPF\HDI-WPF-ListItemTemplate\code\HDI-WPF-ListItemTemplate-cs\HDI-WPF-ListItemTemplate-cs\obj\Debug\Window1.g.cs
+C:\My Stuff\Projects\HDI Videos\How Do I - WPF\HDI-WPF-ListItemTemplate\code\HDI-WPF-ListItemTemplate-cs\HDI-WPF-ListItemTemplate-cs\obj\Debug\App.g.cs
+C:\My Stuff\Projects\HDI Videos\How Do I - WPF\HDI-WPF-ListItemTemplate\code\HDI-WPF-ListItemTemplate-cs\HDI-WPF-ListItemTemplate-cs\obj\Debug\HDI-WPF-ListItemTemplate-cs_MarkupCompile.cache
+C:\My Stuff\Projects\HDI Videos\How Do I - WPF\HDI-WPF-ListItemTemplate\code\HDI-WPF-ListItemTemplate-cs\HDI-WPF-ListItemTemplate-cs\obj\Debug\HDI-WPF-ListItemTemplate-cs.g.resources
+C:\My Stuff\Projects\HDI Videos\How Do I - WPF\HDI-WPF-ListItemTemplate\code\HDI-WPF-ListItemTemplate-cs\HDI-WPF-ListItemTemplate-cs\obj\Debug\HDI_WPF_ListItemTemplate_cs.Properties.Resources.resources
+C:\My Stuff\Projects\HDI Videos\How Do I - WPF\HDI-WPF-ListItemTemplate\code\HDI-WPF-ListItemTemplate-cs\HDI-WPF-ListItemTemplate-cs\obj\Debug\HDI-WPF-ListItemTemplate-cs.csproj.GenerateResource.Cache
+C:\My Stuff\Projects\HDI Videos\How Do I - WPF\HDI-WPF-ListItemTemplate\code\HDI-WPF-ListItemTemplate-cs\HDI-WPF-ListItemTemplate-cs\obj\Debug\HDI-WPF-ListItemTemplate-cs.exe
+C:\My Stuff\Projects\HDI Videos\How Do I - WPF\HDI-WPF-ListItemTemplate\code\HDI-WPF-ListItemTemplate-cs\HDI-WPF-ListItemTemplate-cs\obj\Debug\HDI-WPF-ListItemTemplate-cs.pdb

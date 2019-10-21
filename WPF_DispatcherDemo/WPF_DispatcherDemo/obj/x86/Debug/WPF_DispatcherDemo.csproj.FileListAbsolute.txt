@@ -1,0 +1,13 @@
+c:\temp\WPF_DispatcherDemo\WPF_DispatcherDemo\bin\Debug\WPF_DispatcherDemo.exe
+c:\temp\WPF_DispatcherDemo\WPF_DispatcherDemo\bin\Debug\WPF_DispatcherDemo.pdb
+c:\temp\WPF_DispatcherDemo\WPF_DispatcherDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\temp\WPF_DispatcherDemo\WPF_DispatcherDemo\obj\x86\Debug\MainWindow.baml
+c:\temp\WPF_DispatcherDemo\WPF_DispatcherDemo\obj\x86\Debug\MainWindow.g.cs
+c:\temp\WPF_DispatcherDemo\WPF_DispatcherDemo\obj\x86\Debug\App.g.cs
+c:\temp\WPF_DispatcherDemo\WPF_DispatcherDemo\obj\x86\Debug\WPF_DispatcherDemo_MarkupCompile.cache
+c:\temp\WPF_DispatcherDemo\WPF_DispatcherDemo\obj\x86\Debug\WPF_DispatcherDemo.g.resources
+c:\temp\WPF_DispatcherDemo\WPF_DispatcherDemo\obj\x86\Debug\WPF_DispatcherDemo.Properties.Resources.resources
+c:\temp\WPF_DispatcherDemo\WPF_DispatcherDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\temp\WPF_DispatcherDemo\WPF_DispatcherDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\temp\WPF_DispatcherDemo\WPF_DispatcherDemo\obj\x86\Debug\WPF_DispatcherDemo.exe
+c:\temp\WPF_DispatcherDemo\WPF_DispatcherDemo\obj\x86\Debug\WPF_DispatcherDemo.pdb

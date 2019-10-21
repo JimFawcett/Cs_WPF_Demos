@@ -1,0 +1,26 @@
+﻿<Window x:Class="WPF_DispatcherDemo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="WPF Dispatcher Demo" Height="350" Width="525">
+  <!-- 
+  /////////////////////////////////////////////////////////////
+  // MainWindow.xaml - WPF Dispatcher Demo                   //
+  //                                                         //
+  // Jim Fawcett, CSE775 - Distributed Objects, Spring 2011  //
+  /////////////////////////////////////////////////////////////
+  -->
+  <DockPanel>
+    <Grid DockPanel.Dock="Bottom">
+      <Grid.ColumnDefinitions>
+        <ColumnDefinition Width="2*" Name="col0" />
+        <ColumnDefinition Width="*" />
+      </Grid.ColumnDefinitions>
+      <TextBlock Name="textBlock1" Text="" 
+                 VerticalAlignment="Center" HorizontalAlignment="Left" 
+                 Width="{Binding Path=Width, ElementName=col0}" Margin="30" Grid.Column="0" />
+      <Button Name="FindButton" Content="Select Path" 
+              Width="100" Margin="20" Click="FindButton_Click" Grid.Column="1" />
+    </Grid>
+    <ListBox Name="listBox1" />
+  </DockPanel>
+</Window>

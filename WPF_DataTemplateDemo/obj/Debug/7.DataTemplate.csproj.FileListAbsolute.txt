@@ -1,0 +1,12 @@
+C:\su\coretechnologies\WindowsProgramming\code\WPF_DataTemplateDemo\bin\Debug\HDI-WPF-ListItemTemplate-cs.exe
+C:\su\coretechnologies\WindowsProgramming\code\WPF_DataTemplateDemo\bin\Debug\HDI-WPF-ListItemTemplate-cs.pdb
+C:\su\coretechnologies\WindowsProgramming\code\WPF_DataTemplateDemo\obj\Debug\7.DataTemplate.csprojResolveAssemblyReference.cache
+C:\su\coretechnologies\WindowsProgramming\code\WPF_DataTemplateDemo\obj\Debug\Window1.baml
+C:\su\coretechnologies\WindowsProgramming\code\WPF_DataTemplateDemo\obj\Debug\Window1.g.cs
+C:\su\coretechnologies\WindowsProgramming\code\WPF_DataTemplateDemo\obj\Debug\App.g.cs
+C:\su\coretechnologies\WindowsProgramming\code\WPF_DataTemplateDemo\obj\Debug\HDI-WPF-ListItemTemplate-cs_MarkupCompile.cache
+C:\su\coretechnologies\WindowsProgramming\code\WPF_DataTemplateDemo\obj\Debug\HDI-WPF-ListItemTemplate-cs.g.resources
+C:\su\coretechnologies\WindowsProgramming\code\WPF_DataTemplateDemo\obj\Debug\HDI_WPF_ListItemTemplate_cs.Properties.Resources.resources
+C:\su\coretechnologies\WindowsProgramming\code\WPF_DataTemplateDemo\obj\Debug\7.DataTemplate.csproj.GenerateResource.Cache
+C:\su\coretechnologies\WindowsProgramming\code\WPF_DataTemplateDemo\obj\Debug\HDI-WPF-ListItemTemplate-cs.exe
+C:\su\coretechnologies\WindowsProgramming\code\WPF_DataTemplateDemo\obj\Debug\HDI-WPF-ListItemTemplate-cs.pdb

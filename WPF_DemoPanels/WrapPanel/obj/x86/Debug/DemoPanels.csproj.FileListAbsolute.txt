@@ -1,0 +1,13 @@
+c:\coretechnologies\windowsprogramming\code\DemoPanels\DemoPanels\bin\Debug\DemoPanels.exe
+c:\coretechnologies\windowsprogramming\code\DemoPanels\DemoPanels\bin\Debug\DemoPanels.pdb
+c:\coretechnologies\windowsprogramming\code\DemoPanels\DemoPanels\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\coretechnologies\windowsprogramming\code\DemoPanels\DemoPanels\obj\x86\Debug\MainWindow.baml
+c:\coretechnologies\windowsprogramming\code\DemoPanels\DemoPanels\obj\x86\Debug\MainWindow.g.cs
+c:\coretechnologies\windowsprogramming\code\DemoPanels\DemoPanels\obj\x86\Debug\App.g.cs
+c:\coretechnologies\windowsprogramming\code\DemoPanels\DemoPanels\obj\x86\Debug\DemoPanels_MarkupCompile.cache
+c:\coretechnologies\windowsprogramming\code\DemoPanels\DemoPanels\obj\x86\Debug\DemoPanels.g.resources
+c:\coretechnologies\windowsprogramming\code\DemoPanels\DemoPanels\obj\x86\Debug\DemoPanels.Properties.Resources.resources
+c:\coretechnologies\windowsprogramming\code\DemoPanels\DemoPanels\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\coretechnologies\windowsprogramming\code\DemoPanels\DemoPanels\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\coretechnologies\windowsprogramming\code\DemoPanels\DemoPanels\obj\x86\Debug\DemoPanels.exe
+c:\coretechnologies\windowsprogramming\code\DemoPanels\DemoPanels\obj\x86\Debug\DemoPanels.pdb

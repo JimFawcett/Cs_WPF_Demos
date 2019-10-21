@@ -1,0 +1,50 @@
+c:\temp\MessageHook\MessageHook\bin\Debug\MessageHook.exe
+c:\temp\MessageHook\MessageHook\bin\Debug\MessageHook.pdb
+c:\temp\MessageHook\MessageHook\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\temp\MessageHook\MessageHook\obj\x86\Debug\MainWindow.baml
+c:\temp\MessageHook\MessageHook\obj\x86\Debug\MainWindow.g.cs
+c:\temp\MessageHook\MessageHook\obj\x86\Debug\App.g.cs
+c:\temp\MessageHook\MessageHook\obj\x86\Debug\MessageHook_MarkupCompile.cache
+c:\temp\MessageHook\MessageHook\obj\x86\Debug\MessageHook.g.resources
+c:\temp\MessageHook\MessageHook\obj\x86\Debug\MessageHook.Properties.Resources.resources
+c:\temp\MessageHook\MessageHook\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\temp\MessageHook\MessageHook\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\temp\MessageHook\MessageHook\obj\x86\Debug\MessageHook.exe
+c:\temp\MessageHook\MessageHook\obj\x86\Debug\MessageHook.pdb
+C:\temp\MessageHook - Copy\MessageHook\obj\x86\Debug\MessageHook.exe
+C:\temp\MessageHook - Copy\MessageHook\obj\x86\Debug\MessageHook.pdb
+C:\temp\MessageHook - Copy\MessageHook\bin\Debug\MessageHook.exe
+C:\temp\MessageHook - Copy\MessageHook\bin\Debug\MessageHook.pdb
+C:\temp\MessageHook - Copy\MessageHook\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\temp\MessageHook - Copy\MessageHook\obj\x86\Debug\MainWindow.baml
+C:\temp\MessageHook - Copy\MessageHook\obj\x86\Debug\MainWindow.g.cs
+C:\temp\MessageHook - Copy\MessageHook\obj\x86\Debug\App.g.cs
+C:\temp\MessageHook - Copy\MessageHook\obj\x86\Debug\MessageHook_MarkupCompile.cache
+C:\temp\MessageHook - Copy\MessageHook\obj\x86\Debug\MessageHook.g.resources
+C:\temp\MessageHook - Copy\MessageHook\obj\x86\Debug\MessageHook.Properties.Resources.resources
+C:\temp\MessageHook - Copy\MessageHook\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\temp\MessageHook - Copy\MessageHook\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\su\coretechnologies\WindowsProgramming\code\WPF_MessageHook\MessageHook\bin\Debug\MessageHook.exe
+C:\su\coretechnologies\WindowsProgramming\code\WPF_MessageHook\MessageHook\bin\Debug\MessageHook.pdb
+C:\su\coretechnologies\WindowsProgramming\code\WPF_MessageHook\MessageHook\obj\x86\Debug\MessageHook.csprojResolveAssemblyReference.cache
+C:\su\coretechnologies\WindowsProgramming\code\WPF_MessageHook\MessageHook\obj\x86\Debug\MainWindow.baml
+C:\su\coretechnologies\WindowsProgramming\code\WPF_MessageHook\MessageHook\obj\x86\Debug\MainWindow.g.cs
+C:\su\coretechnologies\WindowsProgramming\code\WPF_MessageHook\MessageHook\obj\x86\Debug\App.g.cs
+C:\su\coretechnologies\WindowsProgramming\code\WPF_MessageHook\MessageHook\obj\x86\Debug\MessageHook_MarkupCompile.cache
+C:\su\coretechnologies\WindowsProgramming\code\WPF_MessageHook\MessageHook\obj\x86\Debug\MessageHook.g.resources
+C:\su\coretechnologies\WindowsProgramming\code\WPF_MessageHook\MessageHook\obj\x86\Debug\MessageHook.Properties.Resources.resources
+C:\su\coretechnologies\WindowsProgramming\code\WPF_MessageHook\MessageHook\obj\x86\Debug\MessageHook.csproj.GenerateResource.Cache
+C:\su\coretechnologies\WindowsProgramming\code\WPF_MessageHook\MessageHook\obj\x86\Debug\MessageHook.exe
+C:\su\coretechnologies\WindowsProgramming\code\WPF_MessageHook\MessageHook\obj\x86\Debug\MessageHook.pdb
+C:\github\JimFawcett\Cs_WPF_Demos\WPF_MessageHook\MessageHook\bin\Debug\MessageHook.exe
+C:\github\JimFawcett\Cs_WPF_Demos\WPF_MessageHook\MessageHook\bin\Debug\MessageHook.pdb
+C:\github\JimFawcett\Cs_WPF_Demos\WPF_MessageHook\MessageHook\obj\x86\Debug\MessageHook.csprojAssemblyReference.cache
+C:\github\JimFawcett\Cs_WPF_Demos\WPF_MessageHook\MessageHook\obj\x86\Debug\MainWindow.baml
+C:\github\JimFawcett\Cs_WPF_Demos\WPF_MessageHook\MessageHook\obj\x86\Debug\MainWindow.g.cs
+C:\github\JimFawcett\Cs_WPF_Demos\WPF_MessageHook\MessageHook\obj\x86\Debug\App.g.cs
+C:\github\JimFawcett\Cs_WPF_Demos\WPF_MessageHook\MessageHook\obj\x86\Debug\MessageHook_MarkupCompile.cache
+C:\github\JimFawcett\Cs_WPF_Demos\WPF_MessageHook\MessageHook\obj\x86\Debug\MessageHook.g.resources
+C:\github\JimFawcett\Cs_WPF_Demos\WPF_MessageHook\MessageHook\obj\x86\Debug\MessageHook.Properties.Resources.resources
+C:\github\JimFawcett\Cs_WPF_Demos\WPF_MessageHook\MessageHook\obj\x86\Debug\MessageHook.csproj.GenerateResource.cache
+C:\github\JimFawcett\Cs_WPF_Demos\WPF_MessageHook\MessageHook\obj\x86\Debug\MessageHook.exe
+C:\github\JimFawcett\Cs_WPF_Demos\WPF_MessageHook\MessageHook\obj\x86\Debug\MessageHook.pdb

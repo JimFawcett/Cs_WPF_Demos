@@ -1,0 +1,37 @@
+D:\1. LECTURE\DragAndDrop_Demo\DragDropExample\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\1. LECTURE\DragAndDrop_Demo\DragDropExample\obj\x86\Debug\App.g.cs
+D:\1. LECTURE\DragAndDrop_Demo\DragDropExample\obj\x86\Debug\DragDropExample_MarkupCompile.cache
+D:\1. LECTURE\DragAndDrop_Demo\DragDropExample\bin\Debug\DragDropExample.exe
+D:\1. LECTURE\DragAndDrop_Demo\DragDropExample\bin\Debug\DragDropExample.pdb
+D:\1. LECTURE\DragAndDrop_Demo\DragDropExample\obj\x86\Debug\MainWindow.g.cs
+D:\1. LECTURE\DragAndDrop_Demo\DragDropExample\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\1. LECTURE\DragAndDrop_Demo\DragDropExample\obj\x86\Debug\DragDropExample_MarkupCompile.lref
+D:\1. LECTURE\DragAndDrop_Demo\DragDropExample\obj\x86\Debug\MainWindow.baml
+D:\1. LECTURE\DragAndDrop_Demo\DragDropExample\obj\x86\Debug\DragDropExample.g.resources
+D:\1. LECTURE\DragAndDrop_Demo\DragDropExample\obj\x86\Debug\DragDropExample.Properties.Resources.resources
+D:\1. LECTURE\DragAndDrop_Demo\DragDropExample\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\1. LECTURE\DragAndDrop_Demo\DragDropExample\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\1. LECTURE\DragAndDrop_Demo\DragDropExample\obj\x86\Debug\DragDropExample.exe
+D:\1. LECTURE\DragAndDrop_Demo\DragDropExample\obj\x86\Debug\DragDropExample.pdb
+D:\1. LECTURE\DragAndDrop_Demo\DragDropExample\obj\x86\Debug\PackageDiagram.baml
+D:\1. LECTURE\DragAndDrop_Demo\DragDropExample\obj\x86\Debug\PackageDiagram.g.cs
+D:\1. LECTURE\DragAndDrop_Demo\DragDropExample\obj\x86\Debug\UsingConnector.baml
+D:\1. LECTURE\DragAndDrop_Demo\DragDropExample\obj\x86\Debug\UsingConnector.g.cs
+C:\su\coretechnologies\WindowsProgramming\code\WPF_DragDropExample\DragDropExample\obj\x86\Debug\DragDropExample.exe
+C:\su\coretechnologies\WindowsProgramming\code\WPF_DragDropExample\DragDropExample\obj\x86\Debug\DragDropExample.pdb
+C:\su\coretechnologies\WindowsProgramming\code\WPF_DragDropExample\DragDropExample\bin\Debug\DragDropExample.exe
+C:\su\coretechnologies\WindowsProgramming\code\WPF_DragDropExample\DragDropExample\bin\Debug\DragDropExample.pdb
+C:\su\coretechnologies\WindowsProgramming\code\WPF_DragDropExample\DragDropExample\obj\x86\Debug\UsingConnector.baml
+C:\su\coretechnologies\WindowsProgramming\code\WPF_DragDropExample\DragDropExample\obj\x86\Debug\PackageDiagram.baml
+C:\su\coretechnologies\WindowsProgramming\code\WPF_DragDropExample\DragDropExample\obj\x86\Debug\UsingConnector.g.cs
+C:\su\coretechnologies\WindowsProgramming\code\WPF_DragDropExample\DragDropExample\obj\x86\Debug\MainWindow.g.cs
+C:\su\coretechnologies\WindowsProgramming\code\WPF_DragDropExample\DragDropExample\obj\x86\Debug\PackageDiagram.g.cs
+C:\su\coretechnologies\WindowsProgramming\code\WPF_DragDropExample\DragDropExample\obj\x86\Debug\App.g.cs
+C:\su\coretechnologies\WindowsProgramming\code\WPF_DragDropExample\DragDropExample\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\su\coretechnologies\WindowsProgramming\code\WPF_DragDropExample\DragDropExample\obj\x86\Debug\DragDropExample_MarkupCompile.cache
+C:\su\coretechnologies\WindowsProgramming\code\WPF_DragDropExample\DragDropExample\obj\x86\Debug\DragDropExample_MarkupCompile.lref
+C:\su\coretechnologies\WindowsProgramming\code\WPF_DragDropExample\DragDropExample\obj\x86\Debug\MainWindow.baml
+C:\su\coretechnologies\WindowsProgramming\code\WPF_DragDropExample\DragDropExample\obj\x86\Debug\DragDropExample.g.resources
+C:\su\coretechnologies\WindowsProgramming\code\WPF_DragDropExample\DragDropExample\obj\x86\Debug\DragDropExample.Properties.Resources.resources
+C:\su\coretechnologies\WindowsProgramming\code\WPF_DragDropExample\DragDropExample\obj\x86\Debug\DragDropExample.csprojResolveAssemblyReference.cache
+C:\su\coretechnologies\WindowsProgramming\code\WPF_DragDropExample\DragDropExample\obj\x86\Debug\DragDropExample.csproj.GenerateResource.Cache

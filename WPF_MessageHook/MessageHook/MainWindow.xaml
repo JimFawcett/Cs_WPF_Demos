@@ -1,0 +1,41 @@
+﻿<Window x:Class="MessageHook.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="450" Width="475" Loaded="Window_Loaded">
+  <!-- 
+  /////////////////////////////////////////////////////////////
+  // MainWindow.xaml - Demonstrate Message Hooking           //
+  //                                                         //
+  // Jim Fawcett, CSE775 - Distributed Objects, Spring 2011  //
+  /////////////////////////////////////////////////////////////
+  -->
+  <DockPanel>
+    <StackPanel DockPanel.Dock="Bottom"  Orientation="Horizontal" Height="60" MaxHeight="60">
+      <CheckBox Content="MouseMove" Height="16" Name="checkBox1" Width="104" Margin="20" />
+      <Button Content="Clear" Height="23" Name="button1" Width="75" Click="button1_Click" />
+    </StackPanel>
+    <ListBox Name="listBox1" MinHeight="350" >
+      <ListBox.ItemTemplate>
+        <DataTemplate>
+          <Border BorderBrush="LightBlue"  Margin="0,1,0,1" BorderThickness="1" CornerRadius="0">
+            <Grid>
+              <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition />
+              </Grid.RowDefinitions>
+              <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="220" />
+                <ColumnDefinition Width="100" />
+                <ColumnDefinition Width="100" />
+                <ColumnDefinition MinWidth="400"/>
+              </Grid.ColumnDefinitions>
+              <TextBlock Grid.Column="0" FontSize="16" Padding="4,0,4,0" Text="{Binding Path=msg}" />
+              <TextBlock Grid.Column="1" FontSize="16" Padding="4,0,4,0" Text="{Binding Path=value}" />
+              <TextBlock Grid.Column="2" FontSize="16" Padding="4,0,4,0" Text="{Binding Path=renderCount}" />
+            </Grid>
+          </Border>
+        </DataTemplate>
+      </ListBox.ItemTemplate>
+    </ListBox>
+  </DockPanel>
+</Window>
