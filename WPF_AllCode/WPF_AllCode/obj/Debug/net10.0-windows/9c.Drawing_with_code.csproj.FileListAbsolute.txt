@@ -1,0 +1,13 @@
+C:\github\JimFawcett\NewSite\Code\C#\Cs_WPF_Demos\WPF_AllCode\WPF_AllCode\bin\Debug\net10.0-windows\WPF_AllCode.exe
+C:\github\JimFawcett\NewSite\Code\C#\Cs_WPF_Demos\WPF_AllCode\WPF_AllCode\bin\Debug\net10.0-windows\WPF_AllCode.deps.json
+C:\github\JimFawcett\NewSite\Code\C#\Cs_WPF_Demos\WPF_AllCode\WPF_AllCode\bin\Debug\net10.0-windows\WPF_AllCode.runtimeconfig.json
+C:\github\JimFawcett\NewSite\Code\C#\Cs_WPF_Demos\WPF_AllCode\WPF_AllCode\bin\Debug\net10.0-windows\WPF_AllCode.dll
+C:\github\JimFawcett\NewSite\Code\C#\Cs_WPF_Demos\WPF_AllCode\WPF_AllCode\bin\Debug\net10.0-windows\WPF_AllCode.pdb
+C:\github\JimFawcett\NewSite\Code\C#\Cs_WPF_Demos\WPF_AllCode\WPF_AllCode\obj\Debug\net10.0-windows\9c.Drawing_with_code.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\JimFawcett\NewSite\Code\C#\Cs_WPF_Demos\WPF_AllCode\WPF_AllCode\obj\Debug\net10.0-windows\9c.Drawing_with_code.csproj.CoreCompileInputs.cache
+C:\github\JimFawcett\NewSite\Code\C#\Cs_WPF_Demos\WPF_AllCode\WPF_AllCode\obj\Debug\net10.0-windows\9c.Drawing_with_code.sourcelink.json
+C:\github\JimFawcett\NewSite\Code\C#\Cs_WPF_Demos\WPF_AllCode\WPF_AllCode\obj\Debug\net10.0-windows\WPF_AllCode.dll
+C:\github\JimFawcett\NewSite\Code\C#\Cs_WPF_Demos\WPF_AllCode\WPF_AllCode\obj\Debug\net10.0-windows\refint\WPF_AllCode.dll
+C:\github\JimFawcett\NewSite\Code\C#\Cs_WPF_Demos\WPF_AllCode\WPF_AllCode\obj\Debug\net10.0-windows\WPF_AllCode.pdb
+C:\github\JimFawcett\NewSite\Code\C#\Cs_WPF_Demos\WPF_AllCode\WPF_AllCode\obj\Debug\net10.0-windows\9c.Drawing_with_code.genruntimeconfig.cache
+C:\github\JimFawcett\NewSite\Code\C#\Cs_WPF_Demos\WPF_AllCode\WPF_AllCode\obj\Debug\net10.0-windows\ref\WPF_AllCode.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Wpf_DefaultProject/1.0.0": {
+        "runtime": {
+          "Wpf_DefaultProject.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Wpf_DefaultProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
