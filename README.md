@@ -119,7 +119,7 @@ Five separate projects each demonstrating one WPF panel type with styled buttons
 
 Demonstrates WPF drag-and-drop by building an interactive package diagram editor where components can be dragged from a toolbox onto a drawing canvas.
 
-The window has a narrow left `Canvas` acting as a toolbox containing a `PackageDiagram` shape and a `UsingConnector` shape. The right `Canvas` (`drawingCanvas`) has `AllowDrop="True"` and a `Drop` handler. Each toolbox shape handles `MouseMove` to initiate a drag with `DragDrop.DoDragDrop`, packaging itself as data. On drop, the handler checks the source canvas: if dropping from the toolbox it copies the element; if re-dropping from the drawing canvas it moves it, positioning via `Canvas.SetLeft`/`Canvas.SetTop`.
+The window has a narrow left `Canvas` acting as a toolbox containing a `PackageDiagram` shape and a `UsingConnector` shape. The right `Canvas` (`drawingCanvas`) has `AllowDrop="True"` and a `Drop` handler. Each toolbox shape handles `MouseMove` to initiate a drag with `DragDrop.DoDragDrop`, packaging itself as data. On drop, the handler checks the source canvas: if dropping from the toolbox it copies the element; if re-dropping from the drawing canvas it moves it, positioning via `Canvas.SetLeft`/`Canvas.SetTop`.<br>
 <img src="screenshot_WPF_DragDropExample.png" width="200"><br>
 
 ---
@@ -128,7 +128,7 @@ The window has a narrow left `Canvas` acting as a toolbox containing a `PackageD
 
 Demonstrates WPF page-based navigation using `NavigationWindow` with a series of `Page` objects navigated programmatically.
 
-`Window1` subclasses `NavigationWindow` with `ShowsNavigationUI = false`, suppressing the default back/forward chrome. The initial source is `Page1.xaml`; each page contains its own layout and navigates forward or backward by calling `NavigationService.Navigate` or `NavigationService.GoBack`. This shows how a WPF application can present a multi-step workflow or wizard using the built-in navigation framework.
+`Window1` subclasses `NavigationWindow` with `ShowsNavigationUI = false`, suppressing the default back/forward chrome. The initial source is `Page1.xaml`; each page contains its own layout and navigates forward or backward by calling `NavigationService.Navigate` or `NavigationService.GoBack`. This shows how a WPF application can present a multi-step workflow or wizard using the built-in navigation framework.<br>
 <img src="screenshot_Wpf_LabManager.png" width="300"><br>
 
 ---
